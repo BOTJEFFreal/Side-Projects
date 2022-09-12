@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574525114454",
+    "project_id": "storage-4ff0e",
+    "storage_bucket": "storage-4ff0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574525114454:android:0a4c477f03864a2f58d3f7",
+        "android_client_info": {
+          "package_name": "com.example.cloud_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574525114454-qjhf9r24ulupcifrghq52je3bqqahkl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGn4PXm2hWsei2F5hjDqhKLTzhSAhMZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574525114454-qjhf9r24ulupcifrghq52je3bqqahkl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
